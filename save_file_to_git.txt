@@ -20,5 +20,14 @@ you need to add it with
 
 Now you are able to push your changes to the selected remote server
 
+This is an amendment to test the Brach commands:
+
+git checkout -b feature_edit
+
+git checkout master
+
+git checkout -d feature_edit
+
+
 
 
